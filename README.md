@@ -1,4 +1,9 @@
-## Hi there 👋
+# Graduate from:
+- [Cao Thang Technical College](https://www.caothang.edu.vn/) (2019 - 2024)
+
+  ![caothang-logo.png](caothang-logo.png)
+
+  
 
 <!--
 **tlamxyn/tlamxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
