@@ -1,14 +1,14 @@
-# Graduate from:
+# 🎓 Graduate from:
 
 - [Cao Thang Technical College](https://www.caothang.edu.vn/) (2019 - 2024)
 
   ![caothang-logo.png](caothang-logo.png)
 
-# 🌱 I’m currently learning 
+# 📚 I’m currently learning 
 
 - Docker
 
-# Stats:
+# 📊 Stats:
 
 [![Tran Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlamxyn&theme=transparent&show=review,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
