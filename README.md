@@ -6,7 +6,7 @@
 
 # 🌱 I’m currently learning 
 
-- Docker ![docker-logo.png](docker-logo.png)
+- Docker
 
 # Stats:
 
